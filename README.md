@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes is a website i am designing to learn designing website
